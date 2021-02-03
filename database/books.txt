@@ -1,0 +1,3 @@
+1    Calculas    Calculus For University    801    James Stewart    stewart@gmail.com    1002    james publications    013564789543    859.0
+2    Life of a pie    A Fantasy Adventure    3002765    Yann Martel    martel@gmail.com    6445365    Martel publications    8143643637    1023.0
+3    Principles of Economics    All About Economics    65326426    ManKiw Rayan    mankiw@gmail.com    6453734    Mankiw Publications    +576537949    975.0

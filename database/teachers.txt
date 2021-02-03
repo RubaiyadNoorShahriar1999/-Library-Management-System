@@ -1,0 +1,3 @@
+5    Rahim Uddiin    4    CSE    rahim@gmail.com    01934256389    Uttora,Dhaka    100.0    bookid-empty
+10    Al Masud    5    EEE    almasud@gmail.com    014368095342    Kuril.Dhaka    80.0    bookid-empty
+20    Bijoy Roy    6    BBA    bijoyroy@gmail.com    01543278546    Kurmitola,Dhaka    120.0    bookid-empty

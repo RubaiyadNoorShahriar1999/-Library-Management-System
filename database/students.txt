@@ -1,0 +1,3 @@
+101    MD Asad    MD Mokleshur Rahman    0180102345    1    CSE    asad@gmail.com    180    Mirpur,Dhaka    100.0    bookid-empty
+112    Rayhan Uddin    Rakib Uddin    01723454636    2    EEE    rayhan19@gmail.cpm    0163542783    kuril,Dhaka    100.0    bookid-empty
+180    Hridoy Hasan    Mostafiz Hassan    01325654930    3    BBA    hridoy@gmail.com    016354278305    Badda,Dhaka    90.0    bookid-empty
