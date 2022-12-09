@@ -1,5 +1,5 @@
-# Library Management System
-Beginner level Java Project on Library Management System (Console Application)
+<h1 align="center">Library Management System</h1>
+<h3 align="center">Beginner level Java Project on Library Management System (Console Application)<h3>
 
 ### Features and Project Description
 - Core features are implemented with <a href="https://www.ibm.com/docs/en/b2b-integrator/5.2?topic=installation-setting-java-variables-in-windows">Java SE 13 (2019)</a>
