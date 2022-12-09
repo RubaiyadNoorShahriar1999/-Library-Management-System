@@ -1,10 +1,10 @@
 # Library Management System
-Final Java Project on Library Management System
+Beginner level Java Project on Library Management System (Console Application)
 
 ### Features and Project Description
-- Core features are implemented with Java SE 13 (2019).
+- Core features are implemented with <a href="https://www.ibm.com/docs/en/b2b-integrator/5.2?topic=installation-setting-java-variables-in-windows">Java SE 13 (2019)</a>
 - Database - No Database is used. Fully functional console application.
-- Technologies - Object Oriented Programming (OOP), no external frameworks
+- Technologies - Object Oriented Programming (OOP), CRUD Operation, no external frameworks
 
 # Visual Studio Code 2022
 - Visite <a href ="https://code.visualstudio.com/download"> Visual Studio Code 2022 </a> for proper IDE installation.
