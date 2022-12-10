@@ -13,3 +13,9 @@
 
 
 ![WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min](https://user-images.githubusercontent.com/77986516/206742224-45f30776-68b1-4ea1-b890-0a07761408bb.png)
+
+<h4 align ="right">
+
+All rights reserved by **[Rubaiyad Noor Shahriar](https://flowcv.me/rubaiyad-noor-shahriar-hridoy)**
+</h4>
+</div>
