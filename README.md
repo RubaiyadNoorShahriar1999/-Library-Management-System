@@ -7,7 +7,7 @@
 - Technologies - Object Oriented Programming (OOP), CRUD Operation, no external frameworks
 
 # Visual Studio Code 2022
-- Visite <a href ="https://code.visualstudio.com/download"> Visual Studio Code 2022 </a> for proper IDE installation.
+- Visit <a href ="https://code.visualstudio.com/download"> Visual Studio Code 2022 </a> for proper IDE installation.
 - Any version: ```Enterprise, Professional, and Community``` editions of Visual Studio Code will work.
 - Extenstions: Extension Pack for Java(Microsoft), Maven for Java(Microsoft), Java Language Support, Java Debugger
 
